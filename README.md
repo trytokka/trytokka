@@ -1,46 +1,46 @@
-﻿# TryTokka â€” AI API Spend Monitor
+﻿# TryTokka — AI API Spend Monitor
 
-**Stop getting surprise AI bills.** TryTokka is a dashboard that tracks your OpenAI, Anthropic, Google Gemini, and OpenRouter API costs in real time â€” with alerts before you hit your budget, not after.
+**Stop getting surprise AI bills.** TryTokka is a dashboard that tracks your OpenAI, Anthropic, Google Gemini, and OpenRouter API costs in real time — with alerts before you hit your budget, not after.
 
-ðŸŒ **[trytokka.com](https://trytokka.com)** Â· [Pricing](https://trytokka.com/pricing) Â· [Guide](https://trytokka.com/guide) Â· [Support](https://trytokka.com/support)
+🌐 **[trytokka.com](https://trytokka.com)** · [Pricing](https://trytokka.com/pricing) · [Guide](https://trytokka.com/guide) · [Support](https://trytokka.com/support)
 
 ---
 
 ## What it does
 
-- **Multi-provider dashboard** â€” OpenAI, Anthropic, Gemini, OpenRouter in one place
-- **Scout daily briefing** â€” plain-English spend summary, trends, and what to watch
-- **Budget alerts** â€” email notification before you hit your limit, not after
-- **Encrypted key storage** â€” AES-256-GCM, keys never leave our servers unencrypted
-- **Team workspaces** â€” invite your team, share one dashboard
-- **Chrome extension** â€” see your spend without opening the dashboard
-- **7-day free trial** â€” no credit card required
+- **Multi-provider dashboard** — OpenAI, Anthropic, Gemini, OpenRouter in one place
+- **Scout daily briefing** — plain-English spend summary, trends, and what to watch
+- **Budget alerts** — email notification before you hit your limit, not after
+- **Encrypted key storage** — AES-256-GCM, keys never leave our servers unencrypted
+- **Team workspaces** — invite your team, share one dashboard
+- **Chrome extension** — see your spend without opening the dashboard
+- **7-day free trial** — no credit card required
 
 ## Supported providers
 
 | Provider | Status |
 |---|---|
-| OpenAI | âœ… Live |
-| Anthropic | âœ… Live |
-| Google Gemini | âœ… Live |
-| OpenRouter | âœ… Live |
-| More coming | ðŸ”œ |
+| OpenAI | ✅ Live |
+| Anthropic | ✅ Live |
+| Google Gemini | ✅ Live |
+| OpenRouter | ✅ Live |
+| More coming | 🔜 |
 
 ## Get started
 
-[**Start your free 7-day trial â†’**](https://trytokka.com/pricing)
+[**Start your free 7-day trial →**](https://trytokka.com/pricing)
 
 No credit card. Cancel anytime. Takes under 5 minutes to connect your first provider.
 
 ---
 
-
----
-
 ## Studio
 
-**Built by [Acsaven](https://github.com/acsavenhq)** — Tools that stay with you.  
-Studio hub: [acsaven.pages.dev](https://acsaven.pages.dev/) · Acsaven brand card: [acsavenhq/trytokka](https://github.com/acsavenhq/trytokka)
+**Built by [Acsaven](https://github.com/acsavenhq)** — Tools that stay with you.
+
+- Studio hub: [acsaven.pages.dev](https://acsaven.pages.dev/)
+- Acsaven brand card: [acsavenhq/trytokka](https://github.com/acsavenhq/trytokka)
+
 ## Links
 
 - Website: [trytokka.com](https://trytokka.com)
